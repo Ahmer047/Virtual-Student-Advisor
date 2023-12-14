@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "216296260271",
+    "project_id": "virtual-student-advisor-b5ce2",
+    "storage_bucket": "virtual-student-advisor-b5ce2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216296260271:android:e612e214e236d74758ca5a",
+        "android_client_info": {
+          "package_name": "com.example.bu_vsa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAYRHn-p3m_VoPw0v1dxGbrlV8gTWc6gA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
